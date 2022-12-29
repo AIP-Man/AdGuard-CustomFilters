@@ -1,2 +1,2 @@
-# HomeAssistant
-Repository for addons and integrations
+# Custom Filter Lists for AdGuard
+
